@@ -1,3 +1,46 @@
-*{
-    background-color: #ddd;
+
+
+p
+{
+    color: black;
 }
+.content
+{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(204, 194, 212);
+    color: black;
+}
+
+.header
+{
+    display: grid;
+    
+    background-color: #c88ab3;
+    color: black;
+}
+
+.footer p{
+    display: grid;
+    color: brown;
+}
+
+.diablo{
+    border-radius: 1px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+img{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    border-radius:50%; 
+    width:200px; 
+    height: 200px;
+}
+
